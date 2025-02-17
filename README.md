@@ -54,8 +54,5 @@ It was a fun project and using python and rendering the images using the CPU was
 
 ## References 
 
-The first source is the inspiration for the project and the second one is where I got the code for the naive ray tracer algorithm.
-
-
 - I. Wald, H. Friedrich, G. Marmitt, P. Slusallek and H. -. Seidel, "Faster isosurface ray tracing using implicit KD-trees," in IEEE Transactions on Visualization and Computer Graphics, vol. 11, no. 5, pp. 562-572, Sept.-Oct. 2005, doi: 10.1109/TVCG.2005.79.
 - Aflak, O. (2021, August 6). Ray tracing from scratch in Python. Medium.  [accessed: 2024-01-08] https://omaraflak.medium.com/ray-tracing-from-scratch-in-python-41670e6a96f9 
